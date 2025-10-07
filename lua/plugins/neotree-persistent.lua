@@ -18,7 +18,7 @@ return {
       follow_current_file = { enabled = true },
       window = {
         mappings = {
-          ["t"] = "open_tabnew", -- open file in new tab
+          ["t"] = "open_tabnew",
         },
       },
     },
